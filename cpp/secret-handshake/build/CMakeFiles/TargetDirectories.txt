@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/secret-handshake/build/CMakeFiles/secret-handshake.dir
+/home/hugons/exercism/cpp/secret-handshake/build/CMakeFiles/test_secret-handshake.dir
+/home/hugons/exercism/cpp/secret-handshake/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/secret-handshake/build/CMakeFiles/rebuild_cache.dir
