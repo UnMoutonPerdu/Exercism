@@ -1,0 +1,20 @@
+{
+	"name": "gigasecond-Debug@gigasecond",
+	"directory": "/home/hugons/exercism/cpp/gigasecond",
+	"files": [ { "list": [ "/home/hugons/exercism/cpp/gigasecond/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake", "/home/hugons/exercism/cpp/gigasecond/CMakeFiles/3.22.1/CMakeSystem.cmake", "/home/hugons/exercism/cpp/gigasecond/CMakeLists.txt", "/home/hugons/exercism/cpp/gigasecond/gigasecond.cpp", "/home/hugons/exercism/cpp/gigasecond/gigasecond.h", "/home/hugons/exercism/cpp/gigasecond/gigasecond_test.cpp", "/home/hugons/exercism/cpp/gigasecond/test/tests-main.cpp", "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake", "/usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfigVersion.cmake", "/usr/lib/x86_64-linux-gnu/cmake/BoostDetectToolset-1.74.0.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_date_time-1.74.0/boost_date_time-config-version.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_date_time-1.74.0/boost_date_time-config.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_date_time-1.74.0/libboost_date_time-variant-shared.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_date_time-1.74.0/libboost_date_time-variant-static.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.74.0/boost_headers-config-version.cmake", "/usr/lib/x86_64-linux-gnu/cmake/boost_headers-1.74.0/boost_headers-config.cmake", "/usr/share/cmake-3.22/Modules/CMakeCXXInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake", "/usr/share/cmake-3.22/Modules/CMakeFindKate.cmake", "/usr/share/cmake-3.22/Modules/CMakeGenericSystem.cmake", "/usr/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake", "/usr/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake", "/usr/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake", "/usr/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Compiler/GNU.cmake", "/usr/share/cmake-3.22/Modules/FindBoost.cmake", "/usr/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake", "/usr/share/cmake-3.22/Modules/FindPackageMessage.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU-CXX.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux-GNU.cmake", "/usr/share/cmake-3.22/Modules/Platform/Linux.cmake", "/usr/share/cmake-3.22/Modules/Platform/UnixPaths.cmake", "/usr/share/cmake-3.22/Modules/ProcessorCount.cmake"] } ],
+	"build": {
+		"directory": "/home/hugons/exercism/cpp/gigasecond",
+		"default_target": "all",
+		"clean_target": "clean",
+		"build": "/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 all",
+		"clean": "/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 clean",
+		"quick": "/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 install",
+		"targets":[
+			 {"name":"all", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 all"}
+			,{"name":"clean", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 clean"}
+			,{"name":"gigasecond", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 gigasecond"}
+			,{"name":"gigasecond/fast", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 gigasecond/fast"}
+			,{"name":"test_gigasecond", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 test_gigasecond"}
+			,{"name":"rebuild_cache", "build_cmd":"/usr/bin/gmake -C \"/home/hugons/exercism/cpp/gigasecond\" -j8 rebuild_cache"}
+	] }
+}

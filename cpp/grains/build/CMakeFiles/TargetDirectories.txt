@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/grains/build/CMakeFiles/grains.dir
+/home/hugons/exercism/cpp/grains/build/CMakeFiles/test_grains.dir
+/home/hugons/exercism/cpp/grains/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/grains/build/CMakeFiles/rebuild_cache.dir
