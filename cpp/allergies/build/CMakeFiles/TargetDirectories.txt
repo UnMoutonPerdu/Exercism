@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/allergies/build/CMakeFiles/allergies.dir
+/home/hugons/exercism/cpp/allergies/build/CMakeFiles/test_allergies.dir
+/home/hugons/exercism/cpp/allergies/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/allergies/build/CMakeFiles/rebuild_cache.dir
