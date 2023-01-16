@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/prime-factors/build/CMakeFiles/prime-factors.dir
+/home/hugons/exercism/cpp/prime-factors/build/CMakeFiles/test_prime-factors.dir
+/home/hugons/exercism/cpp/prime-factors/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/prime-factors/build/CMakeFiles/rebuild_cache.dir
