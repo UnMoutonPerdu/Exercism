@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/sum-of-multiples/build/CMakeFiles/sum-of-multiples.dir
+/home/hugons/exercism/cpp/sum-of-multiples/build/CMakeFiles/test_sum-of-multiples.dir
+/home/hugons/exercism/cpp/sum-of-multiples/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/sum-of-multiples/build/CMakeFiles/rebuild_cache.dir
