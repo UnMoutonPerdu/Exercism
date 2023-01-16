@@ -1,0 +1,4 @@
+/home/hugons/exercism/cpp/protein-translation/build/CMakeFiles/protein-translation.dir
+/home/hugons/exercism/cpp/protein-translation/build/CMakeFiles/test_protein-translation.dir
+/home/hugons/exercism/cpp/protein-translation/build/CMakeFiles/edit_cache.dir
+/home/hugons/exercism/cpp/protein-translation/build/CMakeFiles/rebuild_cache.dir
